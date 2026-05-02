@@ -60,6 +60,7 @@ My biggest project this semester. NewsBot 2.0 is an NLP system that can classify
 - **Technologies:** Python, NLTK, spaCy, scikit-learn, sumy, langdetect, deep-translator
 
 🔗 Project Repository: https://github.com/michelleaa68-ux/Newsbot-2.0-Final
+
 🔗 Live Demo: https://michelleaa68-ux.github.io/Newsbot-2.0-Final/
 
 ---
