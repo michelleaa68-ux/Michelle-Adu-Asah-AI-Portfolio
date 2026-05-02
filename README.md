@@ -7,4 +7,5 @@ My biggest project is NewsBot 2.0, an NLP system that can classify news articles
 This project is an NLP-based system that analyzes news articles by classifying them, detecting sentiment, identifying topics, generating summaries, and detecting language.
 
 🔗 Project Repository: https://github.com/michelleaa68-ux/Newsbot-2.0-Final
+
 🔗 Live Demo: https://michelleaa68-ux.github.io/Newsbot-2.0-Final/
