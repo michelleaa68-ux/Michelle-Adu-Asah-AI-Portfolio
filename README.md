@@ -50,18 +50,29 @@ Security vulnerabilities and challenges specific to AI and machine learning syst
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### NewsBot 2.0 — NLP News Analysis System
-
-My biggest project this semester. NewsBot 2.0 is an NLP system that can classify news articles, analyze sentiment, detect topics, generate summaries, identify named entities, and detect and translate language into German, French, and Spanish.
-
+NewsBot 2.0 is an NLP system that can classify news articles, analyze sentiment, 
+detect topics, generate summaries, identify named entities, and detect and translate language into German, 
+French, and Spanish.
 - **Dataset:** BBC News — 1,490 articles across 5 categories
 - **Technologies:** Python, NLTK, spaCy, scikit-learn, sumy, langdetect, deep-translator
 
-🔗 Project Repository: https://github.com/michelleaa68-ux/Newsbot-2.0-Final
+🔗 [Project Repository](https://github.com/michelleaa68-ux/Newsbot-2.0-Final)  
+🔗 [Live Demo](https://michelleaa68-ux.github.io/Newsbot-2.0-Final/)
 
-🔗 Live Demo: https://michelleaa68-ux.github.io/Newsbot-2.0-Final/
+---
+
+### MIRA — Multi-Agent Event Decor Intelligence System
+A three-agent AI system built for a luxury event decor company that handles 
+client inquiries, creative direction, and internal inventory — all in one place.
+- **Agents:** MIRA (client Q&A + pricing), MIZEL (creative vision + mood boards), 
+  MILO (passcode-protected inventory for workers)
+- **Technologies:** Python, Google Colab, rule-based logic, in-session memory
+
+🔗 [Project Repository](https://github.com/michelleaa68-ux/MichelleAduAsah_Solo_ITAI2376)  
+🔗 [Live Demo](https://fe5be83cca054a75b5f5d01282c6ab68-main_v2.projects.builder.my)
 
 ---
 
